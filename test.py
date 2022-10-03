@@ -1,1 +1,1 @@
-print("Hell DICT!")
+print("Python education")
